@@ -13,3 +13,7 @@ The program in the "equation-system" folder allows us to construct the equation 
 The program in the "example-1" folder allows us to form explanations of the inference results of the possibilistic rule-based system used as an example in both the ECSQARU 2021 paper and in Chapter 5 of my PhD thesis. 
 
 The program in the "example-2" folder allows us to form the explanations of the inference results of the second possibilistic rule-based system used as an example  in Chapter 5 of my PhD thesis.
+
+The programs were tested with Python 3.9.8 and Mac OSX 11.5.2. They need the package named click to work: ```pip3 install click'''.
+
+![CC0](https://licensebuttons.net/l/by/3.0/88x31.png)
