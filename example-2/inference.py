@@ -1,4 +1,4 @@
-import click
+
 import pprint
 from rulebase import *
 
