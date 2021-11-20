@@ -14,6 +14,10 @@ The program in the "example-1" folder allows us to form explanations of the infe
 
 The program in the "example-2" folder allows us to form the explanations of the inference results of the second possibilistic rule-based system used as an example  in Chapter 5 of my PhD thesis.
 
-The programs were tested with Python 3.9.8 and Mac OSX 11.5.2. They need the package named click to work: ```pip3 install click'''.
+The programs were tested with Python 3.9.8 and Mac OSX 11.5.2. They need the package named click to work: ```pip3 install click```.
+
+With these programs, we can represent explanations of possibilistic inference decisions:
+![representation of explanations)(rep.png)
+
 
 ![CC0](https://licensebuttons.net/l/by/3.0/88x31.png)
