@@ -17,7 +17,7 @@ The program in the "example-2" folder allows us to form the explanations of the 
 The programs were tested with Python 3.9.8 and Mac OSX 11.5.2. They need the package named click to work: ```pip3 install click```.
 
 With these programs, we can represent explanations of possibilistic inference decisions:
-![rep.png](representation of explanations)
+![representation of explanations](rep.png)
 
 
 ![CC0](https://licensebuttons.net/l/by/3.0/88x31.png)
