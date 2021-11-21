@@ -1,8 +1,7 @@
 # explainability-of-possibilistic-rule-based-systems
 
 
-This repo contains some of my PhD thesis work. 
-It contains programs related to the methods presented in the following articles:
+This repo contains some of my PhD thesis work: three programs related to the methods presented in the following articles:
 
 - Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. 
 - Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions @ ECSQARU 2021 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty, September 2021, Prague, Czechia. DOI: http://dx.doi.org/10.1007/978-3-030-86772-0_37
