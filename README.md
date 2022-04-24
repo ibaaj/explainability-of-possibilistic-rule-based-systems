@@ -1,7 +1,7 @@
 # explainability-of-possibilistic-rule-based-systems
 
 
-This repo contains some of my PhD thesis:
+This repo contains some of my PhD thesis work:
 
 
 Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document).
