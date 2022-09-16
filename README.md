@@ -6,6 +6,8 @@ This repo contains some of my PhD thesis work:
 
 Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document).
 
+For new work, see also this new repo: [ibaaj/learning-possibilistic-rule-based-systems](https://github.com/ibaaj/learning-possibilistic-rule-based-systems)).
+
 Three programs related to the methods presented in the following articles:
 
 - Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. 
