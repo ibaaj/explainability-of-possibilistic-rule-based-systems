@@ -311,7 +311,7 @@ def SensibilityAnalysisFixedIV(IV,OV,IVval,sol,result):
                     if lambdaval[strmap["lambda"]+id] == result:
                         s += strmap["alpha"] + id + "=" + strmap["pi"] +\
                          "(u)" +"=" + str(result) + "\t" + "yes"
-                        Justification.append((realid-1,"true", result))
+                        Justification.append((realid-1,"possible", result))
                     else:
                         s += strmap["alpha"] + id + strmap["notequal"] +\
                          strmap["pi"] + "(u)" +"=" + str(result) + "\t" + " no"
